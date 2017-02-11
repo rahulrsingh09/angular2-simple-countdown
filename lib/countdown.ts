@@ -8,6 +8,7 @@ import { Component, Input } from "@angular/core";
 
 
 export class CountDown {
+    //removed ng-content from template
     @Input() units: any;
     @Input() end: any;
     @Input() displayString: string = '';
