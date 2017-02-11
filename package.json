@@ -9,18 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/previousdeveloper/angular2-simple-countdown.git"
+    "url": "https://github.com/rahulrsingh09/angular2-simple-countdown.git"
   },
   "keywords": [
     "angular2 countdown",
     "simple countdown"
   ],
-  "author": "Gokhan Karadas <gokhan.karadas1992@gmail.com> (http://www.gokhankaradas.com)",
-  "license": "MIT",
+  "author": "Rahul Singh<rahulrsingh09@gmail.com>",
+  "license": "Mine",
   "bugs": {
-    "url": "https://github.com/previousdeveloper/angular2-simple-countdown/issues"
+    "url": "https://github.com/rahulrsingh09/angular2-simple-countdown/issues"
   },
-  "homepage": "https://github.com/previousdeveloper/angular2-simple-countdown/issues#readme",
+  "homepage": "https://github.com/rahulrsingh09/angular2-simple-countdown/issues#readme",
   "dependencies": {
     "colors": "^1.1.2",
     "request": "^2.64.0",

@@ -2,7 +2,7 @@ import { Component, Input } from "@angular/core";
 
 @Component({
     selector: 'count-down',
-    template: `<h1>{{displayString}}</h1>
+    template: `{{displayString}}
   <ng-content></ng-content>
   `
 })
