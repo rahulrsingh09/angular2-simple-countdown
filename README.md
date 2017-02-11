@@ -32,6 +32,8 @@ text: any = { "Weeks": "Weeks",
 
 
 
+
+
 <count-down units="Days | Hours | Minutes | Seconds | Milliseconds" end="February 22, 2016"></count-down>
 <count-down units="Days | Hours " end="February 22, 2016"></count-down>
 <count-down units="Days | Hours | Minutes | Seconds" end="February 22, 2016"></count-down>
@@ -44,3 +46,4 @@ text: any = { "Weeks": "Weeks",
 
 `units`: which units you want the countdown to be viewed in
 
+https://scotch.io/tutorials/angular-2-transclusion-using-ng-content
